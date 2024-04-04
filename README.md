@@ -1,23 +1,22 @@
-<h1 align="center">Hi 👋, I'm Hussein</h1>
-<h3 align="center">intrested in web developer</h3>
+<h3>💫 About Me:</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hosseinmostafa&label=Profile%20views&color=0e75b6&style=flat" alt="hosseinmostafa" /> </p>
-
+<hr>
 - 🌱 I’m currently learning * Language HTML, CSS, JavaScript *
 
 - 💬 Ask me anything on Twitter * @Husseinmosta7 *
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://twitter.com/husseinmustafa" target="blank"><img src="https://img.shields.io/twitter/follow/husseinmustafa?logo=twitter&style=for-the-badge" alt="husseinmustafa" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/husseinmustafa" target="blank"><img src="" alt="husseinmustafa" /></a> </p> -->
+<p align="left"> <a href="https://twitter.com/husseinmustafa" target="blank"><img src="https://camo.githubusercontent.com/2fc85cf3646091660daac9224ef6fcc91f25fbbf6cc729740256a6063183f5b3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d2532333144413146322e7376673f6c6f676f3d54776974746572266c6f676f436f6c6f723d7768697465" alt="husseinmustafa" /></a> 
+<a href="https://linkedin.com/in/hussein mustafa" target="blank"><img align="center" src="https://camo.githubusercontent.com/d94940866c98cb4fca5783c4e8ac95776d2f52df6bbf3d5ab9e30d76836f30ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="hussein mustafa" height="30" width="40" /></a></p>
 
 <p align="left">
-<a href="https://twitter.com/husseinmustafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="husseinmustafa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hussein mustafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussein mustafa" height="30" width="40" /></a>
-<a href="https://fb.com/hessein mostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hessein mostafa" height="30" width="40" /></a>
-<a href="https://instagram.com/7essein_mostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="7essein_mostafa" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hessein mostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hessein mostafa" height="30" width="40" /></a>
-<a href="https://discord.gg/hossein0509_73074" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hossein0509_73074" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/husseinmustafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="husseinmustafa" height="30" width="40" /></a> -->
+<!-- <a href="https://fb.com/hessein mostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hessein mostafa" height="30" width="40" /></a> -->
+<!-- <a href="https://instagram.com/7essein_mostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="7essein_mostafa" height="30" width="40" /></a> -->
+<!-- <a href="https://www.hackerrank.com/hessein mostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hessein mostafa" height="30" width="40" /></a> -->
+<!-- <a href="https://discord.gg/hossein0509_73074" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hossein0509_73074" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
