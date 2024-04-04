@@ -26,7 +26,7 @@
     <a href="https://flask.palletsprojects.com/" target="_blank" title="go to the Flask" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="30" height="30"/>Flask</a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer" title="go to the python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>Python</a> 
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer" title="go to the sqlite"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/> SQLITE</a>
-    <a href="https://www.w3schools.com/css/" target="_blank" title="go to the css" rel="noreferrer"><img src="	https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" title="go to the CSS" alt="sqlite" width="30" height="30"/>CSS</a>
+    <a href="https://www.w3schools.com/css/" target="_blank" title="go to the css" rel="noreferrer"><img src="[	https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg](https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg)" title="go to the CSS" alt="sqlite" width="30" height="30"/>CSS</a>
     <a href="https://www.w3schools.com/html/" target="_blank" title="go to the html" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="sqlite" width="30" height="30"/>HTML</a>
 </p>
 
