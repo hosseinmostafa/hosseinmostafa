@@ -10,10 +10,10 @@
 
 <p align="left">
 <a href="https://twitter.com/husseinmustafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="husseinmustafa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hussein mustafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussein mustafa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/feed/?trk=404_page" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussein mustafa" height="30" width="40" /></a>
 <a href="https://fb.com/hessein mostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hessein mostafa" height="30" width="40" /></a>
 <a href="https://instagram.com/7essein_mostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="7essein_mostafa" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hessein mostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hessein mostafa" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dashboard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hessein mostafa" height="30" width="40" /></a>
 <a href="https://discord.gg/hossein0509_73074" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hossein0509_73074" height="30" width="40" /></a>
 </p>
 
