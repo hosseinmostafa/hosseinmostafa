@@ -28,7 +28,7 @@
 <br>
 
 <a href="https://www.linkedin.com/in/hessein-mostafa" target="_blank"><img
-        src="https://img.shields.io/badge/Hessein%20Mostafa-05122A?style=flat&logo=Linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+        src="https://img.shields.io/badge/Hessein%20Mostafa-72b21718a?style=flat&logo=Linkedin&logoColor=white" /></a>&nbsp;&nbsp;
 </a> [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Hesseinmostaf)
 
 <hr>
