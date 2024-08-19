@@ -21,6 +21,7 @@
 <hr>
 
 <h3>### Connect with Me :
+<br>
 
 <a href="https://www.linkedin.com/in/hessein-mostafa" target="_blank"><img
         src="https://img.shields.io/badge/Hessein%20Mostafa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>&nbsp;&nbsp;
@@ -37,5 +38,6 @@
 
 # 📊 GitHub Stats:
 <br>
+
 ![Hessein Mostafa](https://github-readme-stats.vercel.app/api?username=Hessein&Mostafa&theme_icons=true&theme=transparent)<br>
 
