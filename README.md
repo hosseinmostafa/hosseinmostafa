@@ -38,7 +38,7 @@
 <h3># 📊 GitHub Stats:</h3>
 
 ![Hessein Mostafa](https://github-readme-stats.vercel.app/api?username=Hessein&Mostafa&theme_icons=true&theme=transparent)<br/>
-<h3 align="center">
+<h3 align="right">
     
 ![Hessein Mostafa](https://github-readme-streak-stats.herokuapp.com/?user=HesseinMostafa&theme=dark&hide_border=false)<br/>
 </h3>
