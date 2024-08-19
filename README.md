@@ -8,7 +8,7 @@
 </p>
 
 
-<hr>
+<br>
 
 <h3># 💫 About Me:
 <br>
@@ -16,13 +16,15 @@
 
 [![](https://visitcount.itsvg.in/api?id=hosseinmostafa&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<br>
+
 - 🌱 I’m currently learning * Track [Front-end Developer] *
 
 - 💬 Ask me anything on Twitter * @Hesseinmostaf *
 
 - 👩‍💻 As a as a front-end developer, I'm constantly learning and exploring new technologies to improve my skills.
 
-<hr>
+<br>
 
 ## 🌐 Connect with Me :
 <br>
@@ -39,6 +41,8 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+<br>
 
 # 📊 GitHub Stats:
 <br>
