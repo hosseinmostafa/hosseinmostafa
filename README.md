@@ -10,7 +10,7 @@
 
 <hr>
 
-[![](https://visitcount.itsvg.in/api?id=mohamedsamiromar&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=hosseinmostafa&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - 🌱 I’m currently learning * Track [Front-end Developer] *
 
@@ -27,7 +27,7 @@
 </a>
 
 ### 💻 &nbsp;Languages and Tools:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![Python](https://img.shields.io/badge/python-05122A?style=for-the-badge&logo=python&flat&logoColor=ffdd54)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -35,13 +35,9 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-<h3># 📊 GitHub Stats:</h3>
+<h3># 📊 GitHub Stats:
 
 ![Hessein Mostafa](https://github-readme-stats.vercel.app/api?username=Hessein&Mostafa&theme_icons=true&theme=transparent)<br/>
-<h3 align="right">
-    
 ![Hessein Mostafa](https://github-readme-streak-stats.herokuapp.com/?user=HesseinMostafa&theme=dark&hide_border=false)<br/>
-</h3>
-
 ![Hessein Mostafa](https://github-readme-stats.vercel.app/api/top-langs/?username=HesseinMostafa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
