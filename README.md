@@ -10,6 +10,8 @@
 
 <hr>
 
+<h3># 💫 About Me:
+
 [![](https://visitcount.itsvg.in/api?id=hosseinmostafa&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - 🌱 I’m currently learning * Track [Front-end Developer] *
@@ -20,7 +22,7 @@
 
 <hr>
 
-<h3>### Connect with Me :
+## 🌐 Connect with Me :
 <br>
 
 <a href="https://www.linkedin.com/in/hessein-mostafa" target="_blank"><img
