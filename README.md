@@ -7,8 +7,8 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&duration=4000&pause=1000&center=true&width=435&lines=Front-End+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
+<hr>
 
-<br>
 
 <h3># 💫 About Me:
 <br>
@@ -16,7 +16,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=hosseinmostafa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br>
+<hr>
 
 - 🌱 I’m currently learning * Track [Front-end Developer] *
 
@@ -42,7 +42,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-<br>
+<hr>
 
 # 📊 GitHub Stats:
 <br>
