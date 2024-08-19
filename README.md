@@ -35,8 +35,9 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-# 📊 GitHub Stats:
+<h3># 📊 GitHub Stats:</h3>
+
 ![Hessein Mostafa](https://github-readme-stats.vercel.app/api?username=Hessein&Mostafa&theme_icons=true&theme=transparent)<br/>
 ![Hessein Mostafa](https://github-readme-streak-stats.herokuapp.com/?user=HesseinMostafa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HesseinMostafa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Hessein Mostafa](https://github-readme-stats.vercel.app/api/top-langs/?username=HesseinMostafa&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
