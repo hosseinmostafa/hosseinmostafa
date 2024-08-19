@@ -16,8 +16,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=hosseinmostafa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<hr>
-
 - 🌱 I’m currently learning * Track [Front-end Developer] *
 
 - 💬 Ask me anything on Twitter * @Hesseinmostaf *
@@ -31,7 +29,9 @@
 
 <a href="https://www.linkedin.com/in/hessein-mostafa" target="_blank"><img
         src="https://img.shields.io/badge/Hessein%20Mostafa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>&nbsp;&nbsp;
-</a>
+</a> [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]((https://x.com/Hesseinmostaf))
+
+<hr>
 
 ### 💻 &nbsp;Languages and Tools:
 ![Python](https://img.shields.io/badge/python-05122A?style=flat&logo=python&logoColor=ffdd54)&nbsp;
