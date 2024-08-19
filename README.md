@@ -9,6 +9,9 @@
 
 
 <hr>
+
+[![](https://visitcount.itsvg.in/api?id=mohamedsamiromar&icon=0&color=0)](https://visitcount.itsvg.in)
+
 - 🌱 I’m currently learning * Track [Front-end Developer] *
 
 - 💬 Ask me anything on Twitter * @Hesseinmostaf *
@@ -23,7 +26,7 @@
         src="https://img.shields.io/badge/Hessein%20Mostafa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>&nbsp;&nbsp;
 </a>
 
-### 🛠 &nbsp;Languages and Tools:
+### 💻 &nbsp;Languages and Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -31,3 +34,9 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mohamedsamiromar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohamedsamiromar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedsamiromar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
