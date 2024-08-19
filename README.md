@@ -10,7 +10,7 @@
 <hr>
 
 
-<h3># 💫 About Me:
+# 💫 About Me:
 <br>
 <br>
 
@@ -24,7 +24,7 @@
 
 <br>
 
-## 🌐 Connect with Me :
+<h3>## 🌐 Connect with Me :
 <br>
 
 <a href="https://www.linkedin.com/in/hessein-mostafa" target="_blank"><img
