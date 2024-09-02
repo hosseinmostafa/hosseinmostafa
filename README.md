@@ -42,6 +42,10 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=Angular)&nbsp;
+![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+![ECMAScript](https://img.shields.io/badge/-ECMAScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
 
 <hr>
 
