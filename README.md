@@ -34,18 +34,27 @@
 <hr>
 
 ### 💻 &nbsp;Languages and Tools:
+languages
 ![Python](https://img.shields.io/badge/python-05122A?style=flat&logo=python&logoColor=ffdd54)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![ECMAScript](https://img.shields.io/badge/-ECMAScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
-<br>
+![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
+
+JS Frameworks/Libraries
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=Angular)&nbsp;
+
+CSS Framework/Libraries/Pre-processors
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+
+Version Control
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=Angular)&nbsp;
-![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+
+
+<br>
 
 <hr>
 
