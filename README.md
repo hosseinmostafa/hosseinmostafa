@@ -46,14 +46,3 @@
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
-
-
-<hr>
-
-## 📊 GitHub Stats:
-<br>
-
-![Hessein Mostafa](https://github-readme-stats.vercel.app/api?username=Hessein&Mostafa&theme_icons=true&theme=transparent)<br>
-
-</h3>
