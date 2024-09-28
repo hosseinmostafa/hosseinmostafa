@@ -33,7 +33,7 @@
 
 <hr>
 
-<img align="right" src="./astronaut.png" width="250px" height="250px" />
+<img align="right" src="./astronaut.png" width="250px" height="260px" />
 
 <br />
 
