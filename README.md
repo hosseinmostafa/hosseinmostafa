@@ -36,7 +36,6 @@
 <img align="right" src="./astronaut.png" width="280px" height="280px" />
 
 <br />
-<hr>
 
 ### 💻 &nbsp;Languages and Tools:
 ![Python](https://img.shields.io/badge/python-05122A?style=flat&logo=python&logoColor=ffdd54)&nbsp;
