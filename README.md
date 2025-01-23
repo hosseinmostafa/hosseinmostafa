@@ -49,7 +49,7 @@
         src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" alt="Hessein" height="30" width="40" /></a>
 <a href="https://www.freecodecamp.org/Hussein_Mostafa399" target="blank"><img align="center"
         src="https://global.discourse-cdn.com/freecodecamp/original/3X/e/1/e1c433102e34b46dfaa3e15d13ab9a514b127078.svg" alt="Hessein" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/hesseinnmostafaa"  target="blank"><img style="position: relative; left: 5px;" align="center"
+<a href="https://www.hackerrank.com/profile/hesseinnmostafaa"  target="blank"><img style="position: relative; right: 5px;" align="center"
         src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="Hessein" height="40" width="100" /></a>
 <a href="https://www.codechef.com/users/hesseinmostafa" target="blank"><img align="center"
         src="https://cdn.codechef.com/images/cc-logo-mobile.svg" alt="Hessein" height="50" width="100" /></a>
