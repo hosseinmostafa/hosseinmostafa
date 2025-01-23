@@ -52,7 +52,7 @@
 <a href="https://www.codechef.com/users/hesseinmostafa" target="blank"><img align="center"
         src="https://cdn.codechef.com/images/cc-logo-mobile.svg" alt="Hessein" height="50" width="100" /></a>
 <a href="https://roadmap.sh/u/hessein" target="blank"><img align="center" itemprop="image" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4"
-    src="https://avatars.githubusercontent.com/u/120650344?s=200&amp;v=4" width="50" height="20" alt="@roadmapsh"></a>
+    src="https://avatars.githubusercontent.com/u/120650344?s=200&amp;v=4" width="70" height="30" alt="@roadmapsh"></a>
 </p>
 
 <hr>
