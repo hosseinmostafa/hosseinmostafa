@@ -30,6 +30,8 @@
 <a href="https://www.linkedin.com/in/hessein-mostafa" target="_blank"><img
         src="https://img.shields.io/badge/Hessein%20Mostafa-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>&nbsp;&nbsp;
 </a> [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Hesseinmostaf)
+<a href="https://leetcode.com/u/husseinmostafa3233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kroking" height="30" width="40" /></a>
+
 
 <hr>
 
