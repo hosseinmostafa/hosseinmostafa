@@ -26,6 +26,7 @@
 <h3>## 🌐 Connect with Me :
 <br>
 <br>
+<p align="left">
 <a href="https://dev.to/mahmoudgalal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mahmoudgalalz" height="30" width="40" /></a>
 <a href="https://x.com/Hesseinmostaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eitmg" height="30" width="40" /></a>
     
@@ -38,7 +39,7 @@
 <a href="https://www.instagram.com/7essein_mostafa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahmoudgalalz" height="30" width="40" /></a>
 
 <a href="https://leetcode.com/u/husseinmostafa3233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kroking" height="30" width="40" /></a>
-
+</p>
 
 <hr>
 
