@@ -75,6 +75,11 @@
         class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4"
         src="https://avatars.githubusercontent.com/u/120650344?s=200&amp;v=4" width="40" height="40"
         alt="@roadmapsh"></a>
+        
+<a href="https://www.sololearn.com/en/profile/33912942" target="blank"><img align="center" itemprop="image"
+        class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4"
+        src="https://play-lh.googleusercontent.com/zxbe_H6JVg6ZnIeA1xorxxXr416kKdShmyonBzi5Qe28-GNdczX-NST_ul0AQJ007OA=s94-rw" width="40" height="40"
+        alt="@roadmapsh"></a>
 </p>
 
 <p align="center">
