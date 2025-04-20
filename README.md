@@ -28,12 +28,12 @@
 <br>
 <br>
 <p align="left">
-<a href="https://dev.to/hussein-mostafa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mahmoudgalalz" height="30" width="40" /></a>
-<a href="https://x.com/Hesseinmostaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eitmg" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/hessein-mostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoudgalalz" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/27435129/hessein-mostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mahmoudgalalz" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100016789146681" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoudgalalzz" height="30" width="40" /></a>
-<a href="https://www.instagram.com/7essein_mostafa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahmoudgalalz" height="30" width="40" /></a>
+<a href="https://dev.to/hussein-mostafa" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mahmoudgalalz" height="30" width="40" /></a>
+<a href="https://x.com/Hesseinmostaf" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eitmg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hessein-mostafa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoudgalalz" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/27435129/hessein-mostafa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mahmoudgalalz" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100016789146681" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoudgalalzz" height="30" width="40" /></a>
+<a href="https://www.instagram.com/7essein_mostafa/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahmoudgalalz" height="30" width="40" /></a>
 </p>
 
 <hr>
@@ -60,7 +60,7 @@
         alt="kroking" height="30" width="40" /></a>
 <a href="https://www.codewars.com/users/Hessein_Mostafa" target="_blank"><img align="center"
         src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" alt="Hessein" height="30" width="40" /></a>
-<a href="https://www.freecodecamp.org/Hussein_Mostafa399" target="blank"><img align="center"
+<a href="https://www.freecodecamp.org/Hussein_Mostafa399" target="_blank"><img align="center"
         src="https://global.discourse-cdn.com/freecodecamp/original/3X/e/1/e1c433102e34b46dfaa3e15d13ab9a514b127078.svg"
         alt="Hessein" height="30" width="40" /></a>
 &nbsp;&nbsp;
@@ -69,7 +69,7 @@
         width="100" /></a>
 <a href="https://www.codechef.com/users/hesseinmostafa" target="_blank"><img align="center"
         src="https://cdn.codechef.com/images/cc-logo-mobile.svg" alt="Hessein" height="50" width="100" /></a>
-<a href="https://roadmap.sh/u/hessein" target="blank"><img align="center" itemprop="image"
+<a href="https://roadmap.sh/u/hessein" target="_blank"><img align="center" itemprop="image"
         class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4"
         src="https://avatars.githubusercontent.com/u/120650344?s=200&amp;v=4" width="40" height="40"
         alt="@roadmapsh"></a>
