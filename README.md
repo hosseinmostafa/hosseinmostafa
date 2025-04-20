@@ -55,19 +55,19 @@
 ## 🚀 Problem solving
 <p align="left">
     
-<a href="https://leetcode.com/u/husseinmostafa3233/" target="blank"><img align="center"
+<a href="https://leetcode.com/u/husseinmostafa3233/" target="_blank"><img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
         alt="kroking" height="30" width="40" /></a>
-<a href="https://www.codewars.com/users/Hessein_Mostafa" target="blank"><img align="center"
+<a href="https://www.codewars.com/users/Hessein_Mostafa" target="_blank"><img align="center"
         src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" alt="Hessein" height="30" width="40" /></a>
 <a href="https://www.freecodecamp.org/Hussein_Mostafa399" target="blank"><img align="center"
         src="https://global.discourse-cdn.com/freecodecamp/original/3X/e/1/e1c433102e34b46dfaa3e15d13ab9a514b127078.svg"
         alt="Hessein" height="30" width="40" /></a>
 &nbsp;&nbsp;
-<a href="https://www.hackerrank.com/profile/hesseinnmostafaa" target="blank"><img align="center"
+<a href="https://www.hackerrank.com/profile/hesseinnmostafaa" target="_blank"><img align="center"
         src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="Hessein" height="40"
         width="100" /></a>
-<a href="https://www.codechef.com/users/hesseinmostafa" target="blank"><img align="center"
+<a href="https://www.codechef.com/users/hesseinmostafa" target="_blank"><img align="center"
         src="https://cdn.codechef.com/images/cc-logo-mobile.svg" alt="Hessein" height="50" width="100" /></a>
 <a href="https://roadmap.sh/u/hessein" target="blank"><img align="center" itemprop="image"
         class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4"
@@ -75,7 +75,7 @@
         alt="@roadmapsh"></a>
 
         
-<a href="https://www.sololearn.com/en/profile/33912942" target="blank"><img align="center" itemprop="image"
+<a href="https://www.sololearn.com/en/profile/33912942" target="_blank"><img align="center" itemprop="image"
         class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4"
         src="https://play-lh.googleusercontent.com/zxbe_H6JVg6ZnIeA1xorxxXr416kKdShmyonBzi5Qe28-GNdczX-NST_ul0AQJ007OA=s94-rw" width="40" height="40"
         alt="@roadmapsh"></a>
