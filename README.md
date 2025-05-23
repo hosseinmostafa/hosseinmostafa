@@ -84,11 +84,9 @@
 <br>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hosseinmostafa&theme=tokyonight" alt="mystreak"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinmostafa&layout=compact&theme=chartreuse-dark" alt="ovi" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinmostafa&layout=compact&theme=chartreuse-dark" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hosseinmostafa&theme=tokyonight" alt="Streak Stats" width="350"/>
 </p>
-
-<br>
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
