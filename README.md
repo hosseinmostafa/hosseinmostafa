@@ -49,11 +49,6 @@
 </p>
 
 <br>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hosseinmostafa&theme=tokyonight" alt="mystreak"/>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinmostafa&layout=compact&theme=chartreuse-dark" alt="ovi" />
-</p>
 <br>
 
 ## 🚀 Problem solving
@@ -84,6 +79,16 @@
         src="https://play-lh.googleusercontent.com/zxbe_H6JVg6ZnIeA1xorxxXr416kKdShmyonBzi5Qe28-GNdczX-NST_ul0AQJ007OA=s94-rw" width="40" height="40"
         alt="@roadmapsh"></a>
 </p>
+
+<br>
+<br>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hosseinmostafa&theme=tokyonight" alt="mystreak"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinmostafa&layout=compact&theme=chartreuse-dark" alt="ovi" />
+</p>
+
+<br>
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
