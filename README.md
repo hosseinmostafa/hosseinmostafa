@@ -84,7 +84,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hosseinmostafa&theme=tokyonight" alt="Streak Stats" width="480"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hosseinmostafa&theme=tokyonight" alt="Streak Stats" width="485"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinmostafa&layout=compact&theme=chartreuse-dark" alt="Top Langs" width="350" />
 </p>
 
