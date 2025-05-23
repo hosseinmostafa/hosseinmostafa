@@ -1,6 +1,6 @@
 
 <h3 align="center">
-    Welcome to Hessein Mostafa profile!
+    Welcome to Hessein Mostafa's profile
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -14,13 +14,12 @@
 
 [![](https://visitcount.itsvg.in/api?id=hosseinmostafa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3># 💫 About Me:</h3>
+## 💫 About Me
 
-- 🌱 I’m currently learning * Track [Front-end Developer] *
+- 🌱 I'm currently learning in the **Front-end Developer** track.  
+- 💬 Feel free to reach out on [Twitter](https://x.com/Hesseinmostaf)  
+- 👨‍💻 As a front-end developer, I'm always exploring new technologies and improving my skills.
 
-- 💬 Ask me anything on Twitter * @Hesseinmostaf *
-
-- 👩‍💻 As a as a front-end developer, I'm constantly learning and exploring new technologies to improve my skills.
 
 <br>
 
@@ -84,3 +83,5 @@
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinmostafa&layout=compact&theme=chartreuse-dark" alt="ovi" />
