@@ -49,7 +49,10 @@
 </p>
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinmostafa&layout=compact&theme=chartreuse-dark" alt="ovi" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinmostafa&layout=compact&theme=chartreuse-dark" alt="ovi" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
+</p>
 <br>
 
 ## 🚀 Problem solving
