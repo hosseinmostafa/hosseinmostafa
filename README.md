@@ -44,7 +44,7 @@
 ### 💻 &nbsp;Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,html,css,js,sass,bootstrap,tailwind,ts,angular,firebase,jquery,postman,react,py,c,sqlite,aws,nodejs,vite&perline=7" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,html,css,js,sass,bootstrap,tailwind,ts,angular,firebase,jquery,postman,react,py,c,sqlite,aws,nodejs,vite,mongodb&perline=7" />
   </a>
 </p>
 
