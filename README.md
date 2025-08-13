@@ -16,7 +16,7 @@
 
 ## 💫 About Me
 
-- 🌱 I'm currently learning in the **Front-end Developer** track.  
+- 🌱 I'm currently learning in the **Back-end Developer** track.  
 - 💬 Feel free to reach out on [Twitter](https://x.com/Hesseinmostaf)  
 - 👨‍💻 As a front-end developer, I'm always exploring new technologies and improving my skills.
 
