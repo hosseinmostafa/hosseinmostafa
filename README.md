@@ -31,8 +31,6 @@
 <a href="https://x.com/Hesseinmostaf" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eitmg" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/hessein-mostafa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoudgalalz" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/27435129/hessein-mostafa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mahmoudgalalz" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100016789146681" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoudgalalzz" height="30" width="40" /></a>
-<a href="https://www.instagram.com/7essein_mostafa/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahmoudgalalz" height="30" width="40" /></a>
 </p>
 
 <hr>
