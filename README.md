@@ -27,11 +27,11 @@ Front-End Developer | Always Learning New Things 🚀
 </a>
 
 <a href="https://x.com/Hesseinmostaf" target="_blank">
-<img src="https://cdn.simpleicons.org/x" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/x" width="30" height="30"/>
 </a>
 
 <a href="https://www.linkedin.com/in/hessein-mostafa" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin&perline=7" width="30" height="30"/>
+<img src="https://skillicons.dev/icons?i=linkedin&perline=7" width="40" height="40"/>
 </a>
 
 <a href="https://stackoverflow.com/users/27435129/hessein-mostafa" target="_blank">
